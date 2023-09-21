@@ -1,0 +1,15 @@
+An HTML entity is used to display invisible characters and reserved characters that would otherwise be interpreted as HTML code. It is a piece of text, or string, that begins with an ampersand ( & ) and ends with a semicolon ( ; ).
+
+5 most commonly used html entities:
+
+Entity name     Description        Result  
+
+&lt;            less than sign     <
+
+&gt;            Greater then       >
+
+&#163           pound sign         £
+
+&copy;          copyright          ©
+
+&euro           Euro sign          €

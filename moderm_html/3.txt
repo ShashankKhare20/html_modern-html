@@ -1,0 +1,4 @@
+Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the Web, contribute to the Web.
+
+By making your website accessible, we are ensuring that all of your potential users, including people with disabilities, have a decent user experience and are able to easily access your information. By implementing accessibility best practices, you are also improving the usability of the site for all users.
+It makes uor website more interactive and user friendly.

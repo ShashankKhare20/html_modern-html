@@ -1,0 +1,9 @@
+Three ways to improve the accessibility of our website:
+
+1-Add proper alt text to images.
+
+2-Use headings properly.
+
+3-Group related form fields together.
+
+4-Add labels to form fields
